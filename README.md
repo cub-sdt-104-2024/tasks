@@ -31,7 +31,22 @@ A few terminology remarks: a _project_ is a repository where a student or a team
 ### Phase 1
 The goal of this phase is to learn/refresh the basics of programming in Python, work with strings, lists, maps, libraries for parsing command line arguments and using input/output. Phase 1  starts shortly after the start of the course and lasts approximately until the end of September. This work is standalone, there will be no teams during this phase.
 
-There will be a list of required tasks for every available application. Completion of every task will give you a few credit points, depending on the task complexity. The task is considered as completed if a pull request with the working task code and passing unit tests is submitted before the submission deadline, and the code review ends with "LGTM" (approval) from one of the teachers (it may happen after the submission deadline).
+There will be a list of required tasks for every available application. Completion of every task will give you a few credit points, depending on the task complexity. A task is considered as completed if a pull request with the working task code and passing unit tests is submitted before the submission deadline, and the code review ends with "LGTM" (approval) from one of the teachers. The end of the code review may happen after the submission deadline.
 
 You are free to suggest your own tasks, however, they will be counted as optional and will provide less credit points. 
 
+### Phase 2
+The goal of this phase is to develop relatively complex data structures and polymorphic components. Phase 2 starts in early October and lasts approximately until the early November. During this phase you will work in teams of two students.
+
+There will be a list of the required _components_ for every app. A component is a bigger unit of work, and you will have a lot of freedom with respect to the component implementation. Completion of every component will give you a few credit points, depending on the component complexity. A component is considered as completed if pull requests implementing its aspects are submitted, along with the passing unit tests, before the submission deadline, and the code review ends with "LGTM" (approval) from the teammate and one of the teachers. The end of the code review may happen after the submission deadline.
+
+You are free to suggest your own components, however, they will be counted as optional and will provide less credit points. 
+
+In the beginning of this phase you will have to choose team-mates and merge your projects, probably deciding whose code from the Phase 1 you will want to keep.
+
+### Phase 3
+The goal of this phase it to build a complete application with user-visible interface on top of their work completed in the first two phases. Phase 3 starts in November and runs until the end of the course.  During this phase you will work in the same teams as during the Phase 2.
+
+There will be a set of requirement specifications for every app. The specification will describe the user scenario, and you will decide how it should be implemented. Every implemented specification will give you a few credit points, depending on its complexity and its quality.
+
+The quality will be assessed at the end of the phase during an online face-to-face meeting where both the App and pull requests will be presented to the teachers. During the process of working on the app the team members are expected to do mandatory code reviews for each other.
