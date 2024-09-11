@@ -50,3 +50,7 @@ The goal of this phase it to build a complete application with user-visible inte
 There will be a set of requirement specifications for every app. The specification will describe the user scenario, and you will decide how it should be implemented. Every implemented specification will give you a few credit points, depending on its complexity and its quality.
 
 The quality will be assessed at the end of the phase during an online face-to-face meeting where both the App and pull requests will be presented to the teachers. During the process of working on the app the team members are expected to do mandatory code reviews for each other.
+
+## Grading
+
+We will calculate the total credit points earned from the lab work. The final score for the labs will be determined by the ratio of earned credits to available credits.
