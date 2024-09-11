@@ -28,6 +28,10 @@ The work on the course project will be split into three phases.
 
 A few terminology remarks: a _project_ is a repository where a student or a team of students submit their code. A project goal is to implement an _application_ (shortly, an _app_). Every app is described by a list of tasks or features that are needed to be implemented. There may be many projects that implement the same application.
 
+### Applications
+
+We have a choice of apps: [Hanabi game bot](App1.md), [Expense Accounting Bot](App2.md), [Language Learning Bot](App3.md), [Tangled Tracks Sherlock](App4.md) and [Web site bot fighter](App5.md). You are free to suggest your own app ideas, provided that they are of the approximately the same level of complexity. If you submit your own app idea, please be prepared for some work on writing tasks, components and requirement specifications.
+
 ### Phase 1
 The goal of this phase is to learn/refresh the basics of programming in Python, work with strings, lists, maps, libraries for parsing command line arguments and using input/output. Phase 1  starts shortly after the start of the course and lasts approximately until the end of September. This work is standalone, there will be no teams during this phase.
 
