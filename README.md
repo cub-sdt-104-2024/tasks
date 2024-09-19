@@ -35,7 +35,7 @@ We have a choice of apps: [Hanabi game bot](App1.md), [Expense Accounting Bot](A
 ### Phase 1
 The goal of this phase is to learn/refresh the basics of programming in Python, work with strings, lists, maps, libraries for parsing command line arguments and using input/output. Phase 1  starts shortly after the start of the course and lasts approximately until the end of September. This work is standalone, there will be no teams during this phase.
 
-There will be a list of required tasks for every available application. Completion of every task will give you a few credit points, depending on the task complexity. A task is considered as completed if a pull request with the working task code and passing unit tests is submitted before the submission deadline, and the code review ends with "LGTM" (approval) from one of the teachers. The end of the code review may happen after the submission deadline.
+There will be a list of required tasks for every available application (as of Sep 19, there are just two tasks, but more are expected, up to 3-4 tasks for every app). Completion of every task will give you a few credit points, depending on the task complexity. A task is considered as completed if a pull request with the working task code and passing unit tests is submitted before the submission deadline, and the code review ends with "LGTM" (approval) from one of the teachers. The end of the code review may happen after the submission deadline.
 
 You are free to suggest your own tasks, however, they will be counted as optional and will provide less credit points. 
 
